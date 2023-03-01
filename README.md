@@ -24,7 +24,7 @@ rm -rf 2fAPC
  pkg install git
  git clone https://github.com/James404-cyber/2fAPC.git
  cd 2fAPC
- python dontrun.py
+ python Dontrun.py
 
 
 
